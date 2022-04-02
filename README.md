@@ -6,8 +6,8 @@ If you are in need of a bit of oraganization with your time on a daily basis, th
 
 ## Story
 
-AS A User you can
-ADD Items to a list on a clandar format
+AS A User you can.  
+ADD Items to a list on a clandar format.  
 TO TRACK your day and be on schedule.
 
 ## Purpose
@@ -16,7 +16,7 @@ While there are many ways of keeping track of your daily routine and activities,
 
 ## Deployment
 
-Click [here]() to view the page.
+Click [here](https://ajfigueroa83.github.io/HW-5-Scheduler/) to view the page.
 
 ## Mock UP
 
