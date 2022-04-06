@@ -76,3 +76,31 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+
+@media screen and (max-width: 1183px) {
+  body {
+    flex-direction: column;
+  }
+
+  header, .conatiner {
+    width: 90vw;
+  }
+
+  section {
+    margin: 20px auto;
+    width: 92vw;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .container{
+    font-size: 2em;
+  }
+
+  section {
+    margin: 10px auto;
+    width: 92vw;
+    font-size: smaller;
+  }
+}
